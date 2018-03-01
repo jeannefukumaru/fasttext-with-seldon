@@ -1,0 +1,11 @@
+#data
+/amzn-data/
+
+#model
+fasttext_py_model.bin
+
+#docker build folder
+/build/
+
+.DS_Store
+.ipynb_checkpoints
