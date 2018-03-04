@@ -1,5 +1,5 @@
 
-## Seldon deplyment of a fasttext model that classifies Amazon product reviews by positive or negative sentiment
+## Seldon deplyment of a fasttext model that classifies Amazon product reviews by positive or negative sentiment (under dev)
 
 ## TLDR: 
 
