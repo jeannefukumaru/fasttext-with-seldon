@@ -1,5 +1,5 @@
 #data
-/amzn-data/
+amzn-data/
 
 #model
 fasttext_py_model.bin
