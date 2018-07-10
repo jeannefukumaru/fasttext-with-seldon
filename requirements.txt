@@ -1,6 +1,0 @@
-gcc
-Cython==0.27.3
-numpy==1.14.0
-fasttext==0.8.3
-
-
